@@ -1,0 +1,58 @@
+{
+    "title": "Babylon Home Page",
+    "blocks": [
+        {
+            "blockType": "hero",
+            "dataTest": "hero-block",
+            "headingText": "We're for health, for all",
+            "paragraphText": "We want to put an accessible and affordable health service in the hands of every person on earth",
+            "buttonText": "Talk to a Doctor",
+            "buttonUrl": "https://www.babylonhealth.com/about"
+        },
+        {
+            "blockType": "logos",
+            "dataTest": "logos-block",
+            "logos": [
+                {
+                    "dataTest": "logo-1",
+                    "imgUrl": "https://dummyimage.com/600x400/eeeeee/555555",
+                    "altText": "Logo 1",
+                    "displayText": "Company 1 Logo"
+                },
+                {
+                    "dataTest": "logo-2",
+                    "imgUrl": "https://dummyimage.com/600x400/aaeeee/555555",
+                    "altText": "Logo 2",
+                    "displayText": "Company 2 Logo"
+                },
+                {
+                    "dataTest": "logo-3",
+                    "imgUrl": "https://dummyimage.com/600x400/eeaaaa/555555",
+                    "altText": "Logo 3",
+                    "displayText": "Company 3 Logo"
+                }
+            ]
+        },
+        {
+            "blockType": "three-columns",
+            "dataTest": "three-columns-block",
+            "columns": [
+                {
+                    "heading": "About Babylon",
+                    "linkText": "Learn about our mission",
+                    "linkUrl": "https://www.babylonhealth.com/about"
+                },
+                {
+                    "heading": "Our pricing plans",
+                    "linkText": "Register for free",
+                    "linkUrl": "https://www.babylonhealth.com/pricing"
+                },
+                {
+                    "heading": "Explore our services",
+                    "linkText": "Find out more",
+                    "linkUrl": "https://www.babylonhealth.com/product"
+                }
+            ]
+        }
+    ]
+}
